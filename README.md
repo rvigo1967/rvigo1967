@@ -49,7 +49,7 @@ My background includes building production-grade **SQL Server and Oracle** solut
 ## 📁 Portfolios
 
 - 💾 **SQL & ETL Developer Portfolio**  
-  → [View SQL & ETL projects](./sql-etl-developer)
+  → [View SQL & ETL projects](https://github.com/rvigo1967/sql-etl-developer)
 
 - 📊 **Data Analyst Portfolio**  
   → [View Data Analytics projects](./data-analyst)
