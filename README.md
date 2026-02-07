@@ -46,5 +46,15 @@ My background includes building production-grade **SQL Server and Oracle** solut
 ---
 
 ⭐ Explore this repository for **SQL & ETL**, **Data Analytics**, and **AI Automation** portfolio projects designed to reflect real-world, production-ready scenarios.
+## 📁 Portfolios
+
+- 💾 **SQL & ETL Developer Portfolio**  
+  → [View SQL & ETL projects](./sql-etl-developer)
+
+- 📊 **Data Analyst Portfolio**  
+  → [View Data Analytics projects](./data-analyst)
+
+- 🤖 **AI Automation Portfolio**  
+  → [View AI Automation projects](./ai-automation)
 
 
