@@ -52,9 +52,9 @@ My background includes building production-grade **SQL Server and Oracle** solut
   → [View SQL & ETL projects](https://github.com/rvigo1967/sql-etl-developer)
 
 - 📊 **Data Analyst Portfolio**  
-  → [View Data Analytics projects](./data-analyst)
+  → [View Data Analytics projects](https://github.com/rvigo1967/data-analyst)
 
 - 🤖 **AI Automation Portfolio**  
-  → [View AI Automation projects](./ai-automation)
+  → [View AI Automation projects](https://github.com/rvigo1967/ai-automation)
 
 
